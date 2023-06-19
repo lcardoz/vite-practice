@@ -17,7 +17,8 @@ function App() {
           </div>
         <h2>Grid</h2>
           <div className="grid-container">
-          
+            <div className="grid-item grid-item-1">asdf</div>
+            <div className="grid-item grid-item-2">asdfasdf</div>
           </div>
       </div>
     </div>
