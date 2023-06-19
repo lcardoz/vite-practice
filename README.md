@@ -1,0 +1,1 @@
+Using this repo to experiment with Vite + React (instead of create-react-app) for the first time.
